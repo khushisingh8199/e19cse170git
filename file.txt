@@ -1,1 +1,2 @@
 I am Khushi we are reading file.txt line one
+Now we are editing the line 2  to show the second commit
